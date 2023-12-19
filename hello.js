@@ -4,7 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!","What's Up?");console.log("Quoth the Raven 'Nevermore'")
+console.log("2+2=4")
 
 /*  
 Next, PLAY! 
